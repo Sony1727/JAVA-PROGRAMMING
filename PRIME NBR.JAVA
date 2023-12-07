@@ -17,7 +17,7 @@ public class Main
 	    System.out.println("IT IS PRIME NBR:");
 	}
 	else{
-	    System.out.println("PRIME NBR :");
+	    System.out.println("IT IS NOT PRIME NBR :");
 	}
 	    
 	}
