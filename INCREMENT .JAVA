@@ -1,0 +1,11 @@
+public class Increment {
+    public static void main(String a[])
+    {
+        int b=5;
+        ++b;
+
+        System.out.println("increment:"+b);
+
+    }
+
+
