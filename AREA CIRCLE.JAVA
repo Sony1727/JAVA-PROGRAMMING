@@ -5,7 +5,7 @@ public class Area {
         int r=12;
         final double PI=3.14;
         area=PI* r * r;
-        System.out.println("area is"+area);
+        System.out.println("area is  "+area);
     }
 
 }
