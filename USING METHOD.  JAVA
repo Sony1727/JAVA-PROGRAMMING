@@ -1,0 +1,14 @@
+public class Method1 {
+
+   static void sayhello(){
+       System.out.println("WELCOME TO JAVA PROGRAMMING ");
+   }
+
+
+    public static void main(String ar[])
+    {
+sayhello();
+sayhello();
+    }
+
+}
